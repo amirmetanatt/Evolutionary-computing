@@ -1,5 +1,5 @@
 
-# Genetic Algorithm for Optimization Problem
+# Genetic Algorithm for boiler Optimization Problem
 
 This code implements a genetic algorithm to solve an optimization problem with constraints. The genetic algorithm is used to find the optimal solution to the problem by evolving a population of individuals over multiple generations.
 
