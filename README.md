@@ -46,6 +46,3 @@ The algorithm will evolve a population of individuals over multiple generations 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to adjust the README further to include more details or customize it for your needs!
