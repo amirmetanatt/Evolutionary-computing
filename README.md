@@ -42,7 +42,17 @@ python genetic_algorithm.py
 The algorithm will evolve a population of individuals over multiple generations and output the best solution found along with a fitness curve showing the evolution of the best fitness value over generations.
 
 
+
+
+## Boiler Mathematical Formulation
+
+
+![BoilerMath(project2)](https://github.com/amirmetanatt/Evolutionary-computing/assets/147061622/cd3aad40-cbe2-47b6-b7f0-7b11a17e6a66)
+
+## Notes
+Ensure you have all the required libraries installed before running the projects.
+Modify the parameters in the code for different experimentations.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
